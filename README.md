@@ -1,52 +1,20 @@
-# 🌟 **NIKKA MD** 🌟  
-> **The Ultimate WhatsApp MD Bot by H4KI XER**  
+ ＳＩＭＰＬＥ ＵＳＥＲ ＢＯＴ
 
-Welcome to **NIKKA MD**, the bot that brings intelligence and style to your WhatsApp automation. Powered by **Nikka Botz Inc**, this bot is crafted for efficiency, fun, and reliability.  
+ ## ＴＯ-ＤＯ : ＧＥＴ SESSION_ID
 
----  
+<a href='https://bot-x-q7ef.onrender.com/pair' target="_blank"><img alt='Pair repl' src='https://img.shields.io/badge/-Pair_Code-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-## 🔗 **Fork This Repository**  
-Create your own version and customize NIKKA MD to suit your needs!  
-[![Fork Now](https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge)](https://github.com/hakisolos/nikka-md/fork)  
+## ＴＯ-ＤＯ: ＤＥＰＬＯＹ 
+- ＫＯＹＥＢ https://koyeb.com
 
----  
-## GET SESSION 
-[![here](https://img.shields.io/badge/get-session-blue?style=for-the-badge)](https://nikka-x.onrender.com)  
-
-## ⭐ **Star This Project**  
-Support the development of NIKKA MD by starring the repository!  
-[![Star Repo](https://img.shields.io/badge/Star-Repository-yellow?style=for-the-badge)](https://github.com/hakisolos/nikka-md)  
-
----  
-
-## 🚀 **Deployment Options**  
-Deploy **NIKKA MD** on any platform you prefer:  
-
-### 1️⃣ **Deploy on Hugging Face**  
-[![Deploy to Hugging Face](https://img.shields.io/badge/Deploy-Hugging%20Face-orange?style=for-the-badge)](https://huggingface.co)  
-
-### 2️⃣ **Deploy on Codespaces**  
-[![Deploy on Codespaces](https://img.shields.io/badge/Deploy-Codespaces-green?style=for-the-badge)](https://github.com/hakisolos/nikka-md)  
-
-### 3️⃣ **Deploy on Panel**  
-Download the ZIP file and deploy on your preferred panel.  
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-red?style=for-the-badge)](https://github.com/hakisolos/nikka-md/archive/refs/heads/main.zip)  
-
-### 4️⃣ **Deploy on Render**  
-[![Deploy on Render](https://img.shields.io/badge/Deploy-Render-purple?style=for-the-badge)](https://render.com)  
-
-### 5️⃣ **Deploy on Heroku**  
-[![Deploy on Heroku](https://img.shields.io/badge/Deploy-Heroku-blueviolet?style=for-the-badge)](https://heroku.com)  
-
----  
-
-## 🤝 **Credits** 
-GOD DID
-- **Bot Name**: NIKKA MD
-- **Owner**: H4KI XER  
-- **Company**: Nikka Botz Inc  
-- **Repository**: [GitHub.com/hakisolos/nikka-md](https://github.com/hakisolos/nikka-md)  
-
----  
-
-**Made with ❤️ by H4KI XER and the Nikka Botz Inc team.**
+Ｆｏｒｋ Ｒｅｐｏ ｔｈｅｎ ｃｒｅａｔｅ ｋｏｙｅｂ 
+ａｃｃｏｕｎｔ ｗｉｔｈ ｙｏｕｒ ｇｉｔｈｕｂ, ｏｒ 
+ｊｕｓｔ ｌｉｎｋ ｙｏｕｒ ｇｉｔｈｕｂ ｔｏ ｋｏｙｅｂ
+ ｔｈｅｎ ｓｅｌｅｃｔ ｗｅｂ ｓｅｒｖｉｃｅ ｔｏ ｂｅ
+ｄｅｐｌｏｙｅｄ ｔｈｅｎ ｃｈｏｏｓｅ ｇｉｔｈｕｂ 
+ｔｈｅｎ ｓｅｌｅｃｔ ｙｏｕｒ ｆｏｒｋｅｄ ｒｅｐｏ
+ｔｈｅｎ ａｄｄ SESSION_ID VAR IN ENVIRONMENT VARIABLES THERE ADD YOUR SESSION_ID Ｔｈｅｎ 
+ｃｌｉｃｋ *DEPLOY*
+ＴＨＥＮ ＷＡＴＣＨ ＤＥＰＬＯＹＭＥＮＴ ＬＯＧＳ ＩＴ'Ｓ ＫＩＮＤＡ ＦＵＮ 😅 ＴＨＥＮ ＷＨＥＮ ＩＴ'Ｓ ＤＯＮＥ
+ＴＥＳＴ ＷＩＴＨ ＤＥＦＡＵＬＴ ＰＲＥＦＩＸ * ＯＲ 
+ＴＨＥ ＯＮＥ Ｕ ＣＨＡＮＧＥＤ ＴＯ 
